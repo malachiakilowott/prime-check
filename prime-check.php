@@ -171,5 +171,5 @@ function check_total_score() {
 
 add_action('wp_ajax_check_total_score', 'check_total_score');
 add_action('wp_ajax_nopriv_check_total_score', 'check_total_score');
-
+// i am here
 ?>
